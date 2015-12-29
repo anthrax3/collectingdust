@@ -1,6 +1,6 @@
 # Collecting Dust README
 
-The intention of this project is both to learn React with Ruby on Rails and to have an aesthetically pleasing way to view & manage my record collection. 
+The intention of this project is both to learn, specifically React & Node, and to have an aesthetically pleasing way to view & manage my record collection. 
 
 #### Product Description
 
