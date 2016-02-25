@@ -1,0 +1,23 @@
+{
+  "name": "collecting_dust",
+  "version": "1.0.0",
+  "description": "The intention of this project is both to learn, specifically React & Node, and to have an aesthetically pleasing way to view & manage my record collection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patriciarealini/collectingdust.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patriciarealini/collectingdust/issues"
+  },
+  "homepage": "https://github.com/patriciarealini/collectingdust#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
