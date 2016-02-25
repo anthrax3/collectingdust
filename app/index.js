@@ -1,9 +1,10 @@
 // index.js
-var express = require("express");
-var app = express();
+var Express = require("express");
+var React = require("react");
+var App = Express();
 
-app.get('/', function(request, response){
+App.get('/', function(request, response){
   response.send("This is working.");
 });
 
-module.exports = app;
+module.exports = App;
