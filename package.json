@@ -4,7 +4,8 @@
   "description": "The intention of this project is both to learn, specifically React & Node, and to have an aesthetically pleasing way to view & manage my record collection.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
