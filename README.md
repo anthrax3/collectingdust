@@ -13,3 +13,17 @@ The intention of this project is both to learn, specifically React & Node, and t
 	* Album (Alphabetically)
 * When you search or focus on a particular set of items (artist, year, etc) the albums that do not pertain to the search collapse & only their side is displayed (kind of like the way you naturally store records)
 * Discogs API ?
+
+## Getting Started
+
+Run `npm install`
+
+## Run Development
+
+Run `npm run watch`.
+Open `localhost:8000` in your browser.
+
+## Run Production
+
+Run `npm start`.
+Open `localhost:8000` in your browser.
